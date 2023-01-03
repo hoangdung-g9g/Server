@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AT3uUmwAliFWmOs58NUEklkyc7oDpDNp74yDJoFRGpo=",
+  "Source": "hoangdung.Server.API",
+  "BasePath": "_content/hoangdung.Server.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

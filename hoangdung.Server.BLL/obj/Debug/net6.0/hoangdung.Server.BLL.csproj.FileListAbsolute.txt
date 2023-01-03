@@ -1,0 +1,17 @@
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Server.BLL.deps.json
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Server.BLL.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Server.BLL.pdb
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Server.DAL.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Server.DAL.pdb
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.csproj.AssemblyReference.cache
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.AssemblyInfoInputs.cache
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.AssemblyInfo.cs
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.csproj.CoreCompileInputs.cache
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.csproj.CopyComplete
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\refint\hoangdung.Server.BLL.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\hoangdung.Server.BLL.pdb
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\obj\Debug\net6.0\ref\hoangdung.Server.BLL.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Core.Entity.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.BLL\bin\Debug\net6.0\hoangdung.Core.Entity.pdb
