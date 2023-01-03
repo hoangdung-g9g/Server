@@ -88,3 +88,4 @@ C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.server.api\
 C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.server.api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.server.api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.server.api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

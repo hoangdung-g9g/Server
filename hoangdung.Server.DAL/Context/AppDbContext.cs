@@ -12,7 +12,6 @@ namespace hoangdung.Server.DAL.Context
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
-
         }
         public DbSet<ToDo> ToDos { get; set; }
     }

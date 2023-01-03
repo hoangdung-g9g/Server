@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ve18RECzFtADAvXf5nzuRr3rOW2q8w/H95ZZCpb7tk4ZtD3DE2oWw87tfjZo6ftDmIn4hi/D7GlRRgk3OpXKDw==",
+  "dgSpecHash": "BpaaOORrywAR3qXV3MuKPvurLaAvuy9MafqZEppNpjSOAC587YP/nRat7uHvnu483ftYr4ohYDDY14+Xn4LuVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.server.api\\hoangdung.Server.API.csproj",
+  "projectFilePath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.API\\hoangdung.Server.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiend\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\tiend\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\tiend\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tiend\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\tiend\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

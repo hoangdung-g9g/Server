@@ -18,6 +18,19 @@
           }
         }
       },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "12.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -2564,6 +2577,20 @@
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
+      "sha512": "XCJ4E3oKrbRl1qY9Mr+7uyC0xZj1+bqQjmQRWTiTKiVuuXTny+7YFWHi20tPjwkMukLbicN6yGlDy5PZ4wyi1w==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
     "Azure.Core/1.24.0": {
@@ -8051,6 +8078,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
       "Swashbuckle.AspNetCore >= 6.2.3",
@@ -8064,11 +8092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.server.api\\hoangdung.Server.API.csproj",
+      "projectUniqueName": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.API\\hoangdung.Server.API.csproj",
       "projectName": "hoangdung.Server.API",
-      "projectPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.server.api\\hoangdung.Server.API.csproj",
+      "projectPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.API\\hoangdung.Server.API.csproj",
       "packagesPath": "C:\\Users\\tiend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.server.api\\obj\\",
+      "outputPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiend\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8086,8 +8114,8 @@
             "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {
               "projectPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj"
             },
-            "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.BLL\\hoangdung.Server.BLL.csproj": {
-              "projectPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.BLL\\hoangdung.Server.BLL.csproj"
+            "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.BLL\\hoangdung.Server.BLL.csproj": {
+              "projectPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Server\\hoangdung.Server.BLL\\hoangdung.Server.BLL.csproj"
             }
           }
         }
@@ -8102,6 +8130,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[12.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

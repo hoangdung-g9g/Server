@@ -13,5 +13,3 @@ c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\
 c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\bin\Debug\net6.0\hoangdung.Core.Entity.dll
 c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\bin\Debug\net6.0\hoangdung.Core.Entity.pdb
 c:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\obj\Debug\net6.0\hoangdung.Server.DAL.csproj.CopyComplete
-C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\bin\Debug\net6.0\hoangdung.Server.DAL.runtimeconfig.json
-C:\Users\tiend\OneDrive\Documents\hoangdung.Project\Server\hoangdung.Server.DAL\obj\Debug\net6.0\hoangdung.Server.DAL.genruntimeconfig.cache
